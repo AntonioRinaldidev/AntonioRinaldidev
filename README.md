@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Antonio Rinaldi</h1>
+<h1 align="center">Hey 👋 I'm Antonio Rinaldi</h1>
 <p align="center">
-  🚀 Software Engineer | 🎓 Master's Student in AI & Robotics | 🤖 Computer Vision & 3D Data Enthusiast
+  🚀 Software Engineer | 🎓 AI & Robotics Master's Student | 🤖 Computer Vision & 3D Data Lover
 </p>
 
 ---
 
-I'm a **25-year-old software engineer from Italy 🇮🇹**, currently pursuing my Master's degree in **Artificial Intelligence & Robotics** at the University of Padua.
+I'm a **25-year-old software engineer from Italy 🇮🇹**, currently pursuing my Master’s degree in **Artificial Intelligence & Robotics** at the University of Padua.
 
-I thrive at the intersection of **web/mobile development** and **AI-powered solutions**, with a deep passion for **computer vision, 3D data processing, and interactive apps**.
+I’m passionate about building solutions where **web/mobile development** meets **AI-powered tech**, with a strong focus on **computer vision**, **3D data processing**, and **interactive apps**.
 
-I’m currently building a **web and mobile app for Centro Morra**, a wellness & medical center in Naples, while juggling side projects exploring **AI and robotics in the real world**.
+Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, a wellness & medical center in Naples, while also working on side projects exploring **AI & robotics in real-world applications**.
 
 ---
 
@@ -40,20 +40,20 @@ I’m currently building a **web and mobile app for Centro Morra**, a wellness &
 
 ## 🚀 What I'm Working On
 
-- 🏥 **Developing a full-stack web & mobile app for Centro Morra** (Pomigliano d’Arco, Naples)
-- 🤖 **Exploring AI & robotics projects**, especially in **computer vision & 3D data**
-- 💻 Constantly building tools & side projects to push my skills further
+- 🏥 **Full-stack developer** for Centro Morra’s new web & mobile platform (Naples, Italy)
+- 🤖 Exploring **AI & robotics projects**, with a focus on **computer vision & 3D data applications**
+- 💻 Always cooking up side projects & tools to push my skills further
 
 ---
 
 ## 🎮 Fun Facts About Me
 
-✨ I’ve spent **3500+ hours playing Trackmania**, specializing in **full-speed maps**  
-🏂 I started snowboarding this year—and almost **destroyed myself a couple of times**  
-🎶 I vibe with **hard techno, hip-hop, and pop punk** (but please, **no reggaeton**)  
-✈️ I love to travel, aiming to explore both **East Asia and the Americas**, but I’ll always be proud of growing up in **Cilento**, one of the most beautiful places on Earth  
-🖥️ I geek out over **computer vision, 3D graphics, and AI-powered interactive apps**  
-🎯 I want to build tools that blend **AI with everyday user experiences**
+- 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**
+- 🏂 Started snowboarding this year—already have the battle scars to prove it!
+- 🎶 Can’t code without **hard techno, hip-hop, or pop punk** (just… no reggaeton 😅)
+- ✈️ Dreaming of exploring **East Asia and the Americas**, but proud to call **Cilento** home
+- 👨‍💻 I’m obsessed with combining **AI, computer vision & 3D data** into interactive user experiences
+- 🎯 My mission: build tools that make **AI more accessible and usable for everyone**
 
 ---
 
@@ -77,5 +77,4 @@ I’m currently building a **web and mobile app for Centro Morra**, a wellness &
 </p>
 -->
 
-⭐️ Thanks for stopping by!  
-Feel free to **reach out if you want to collaborate or chat tech & games!**
+⭐️ Thanks for stopping by! Feel free to **reach out to collaborate or chat tech & games!**
