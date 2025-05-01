@@ -40,7 +40,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 ## 🚀 What I'm Working On
 
-- 🏥 **Full-stack developer** for Centro Morra’s new web & mobile platform (Naples, Italy)
+- 🏥 **Frontend developer** for Centro Morra’s new web & mobile platform (Naples, Italy)
 - 🤖 Exploring **AI & robotics projects**, with a focus on **computer vision & 3D data applications**
 - 💻 Always cooking up side projects & tools to push my skills further
 
@@ -50,7 +50,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 - 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**
 - 🏂 Started snowboarding this year—already have the battle scars to prove it!
-- 🎶 Can’t code without **hard techno, hip-hop, or pop punk** (just… no reggaeton 😅)
+- 🎶 Can’t code without **hard techno, hip-hop, or rock** (just… no reggaeton 😅)
 - ✈️ Dreaming of exploring **East Asia and the Americas**, but proud to call **Cilento** home
 - 👨‍💻 I’m obsessed with combining **AI, computer vision & 3D data** into interactive user experiences
 - 🎯 My mission: build tools that make **AI more accessible and usable for everyone**
