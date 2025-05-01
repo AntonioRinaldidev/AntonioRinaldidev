@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋 I'm Antonio Rinaldi</h1>
+
 <p align="center">
-  🚀 Software Engineer | 🎓 AI & Robotics Master's Student | 🤖 Computer Vision Lover
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Antonio+Rinaldi;Software+Engineer;AI+%26+Robotics+Master's+Student;Computer+Vision+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=FF8C66&pause=1000">
 </p>
 
 
