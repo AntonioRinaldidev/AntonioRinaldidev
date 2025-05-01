@@ -3,7 +3,6 @@
   🚀 Software Engineer | 🎓 AI & Robotics Master's Student | 🤖 Computer Vision Lover
 </p>
 
----
 
 I'm a **25-year-old software engineer from Italy 🇮🇹**, currently pursuing my Master’s degree in **Artificial Intelligence & Robotics** at the University of Padua.
 
@@ -18,7 +17,6 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioRinaldidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
----
 
 ## 🛠️ Tech Stack
 
@@ -43,8 +41,8 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 </div>
 
----
-<div align="center">
+
+<div >
 ## 🚀 What I'm Working On
 
 - 🏥 **Frontend developer** for Centro Morra’s new web & mobile platform (Naples, Italy)<br>
@@ -53,8 +51,8 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 - 💻 Always cooking up side projects & tools to push my skills further
 </div>
----
-<div align="center">
+
+<div >
 ## 🎮 Fun Facts About Me
 
 - 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**<br>
