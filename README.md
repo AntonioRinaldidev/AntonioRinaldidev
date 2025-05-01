@@ -15,7 +15,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkryson&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AntonioRinaldidev&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
 </p>
 ---
 
