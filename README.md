@@ -11,7 +11,7 @@ I’m passionate about building solutions where **web/mobile development** meets
 
 Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, a wellness & medical center in Naples, while also working on side projects exploring **AI & robotics in real-world applications**.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkryson&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRinaldidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
