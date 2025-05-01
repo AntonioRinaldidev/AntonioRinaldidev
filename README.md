@@ -10,7 +10,13 @@ I'm a **25-year-old software engineer from Italy 🇮🇹**, currently pursuing 
 I’m passionate about building solutions where **web/mobile development** meets **AI-powered tech**, with a strong focus on **computer vision**, **3D data processing**, and **interactive apps**.
 
 Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, a wellness & medical center in Naples, while also working on side projects exploring **AI & robotics in real-world applications**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkryson&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jkryson&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
