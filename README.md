@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Antonio Rinaldi</h1>
 <p align="center">
-  🚀 Software Engineer | 🎓 AI & Robotics Master's Student | 🤖 Computer Vision & 3D Data Lover
+  🚀 Software Engineer | 🎓 AI & Robotics Master's Student | 🤖 Computer Vision Lover
 </p>
 
 ---
@@ -44,15 +44,17 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 </div>
 
 ---
-
+<div align="center">
 ## 🚀 What I'm Working On
 
-- 🏥 **Frontend developer** for Centro Morra’s new web & mobile platform (Naples, Italy)
-- 🤖 Exploring **AI & robotics projects**, with a focus on **computer vision & 3D data applications**
+- 🏥 **Frontend developer** for Centro Morra’s new web & mobile platform (Naples, Italy)<br>
+
+- 🤖 Exploring **AI & robotics projects**, with a focus on **computer vision & 3D data applications**<br>
+
 - 💻 Always cooking up side projects & tools to push my skills further
-
+</div>
 ---
-
+<div align="center">
 ## 🎮 Fun Facts About Me
 
 - 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**<br>
@@ -66,7 +68,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 - 🎯 My mission: build tools that make **AI more accessible and usable for everyone**<br>
 
-
+</div>
 ---
 
 ## 📫 Let's Connect!
