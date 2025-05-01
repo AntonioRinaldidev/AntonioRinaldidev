@@ -10,12 +10,13 @@ I'm a **25-year-old software engineer from Italy 🇮🇹**, currently pursuing 
 I’m passionate about building solutions where **web/mobile development** meets **AI-powered tech**, with a strong focus on **computer vision**, **3D data processing**, and **interactive apps**.
 
 Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, a wellness & medical center in Naples, while also working on side projects exploring **AI & robotics in real-world applications**.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRinaldidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AntonioRinaldidev&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRinaldidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 ---
 
@@ -54,12 +55,17 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 ## 🎮 Fun Facts About Me
 
-- 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**
-- 🏂 Started snowboarding this year—already have the battle scars to prove it!
-- 🎶 Can’t code without **hard techno, hip-hop, or rock** (just… no reggaeton 😅)
-- ✈️ Dreaming of exploring **East Asia and the Americas**, but proud to call **Cilento** home
-- 👨‍💻 I’m obsessed with combining **AI, computer vision & 3D data** into interactive user experiences
-- 🎯 My mission: build tools that make **AI more accessible and usable for everyone**
+- 🕹️ I’ve clocked over **3500 hours in Trackmania**, mainly on **full-speed maps**<br>
+
+- 🏂 Started snowboarding this year—already have the battle scars to prove it!<br>
+
+- 🎶 Can’t code without **hard techno, hip-hop, or rock** (just… no reggaeton 😅) <br>
+- ✈️ Dreaming of exploring **East Asia and the Americas**, but proud to call **Cilento** home<br>
+
+- 👨‍💻 I’m obsessed with combining **AI, computer vision & 3D data** into interactive user experiences<br>
+
+- 🎯 My mission: build tools that make **AI more accessible and usable for everyone**<br>
+
 
 ---
 
