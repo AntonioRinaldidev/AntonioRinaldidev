@@ -68,7 +68,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 - 🎯 My mission: build tools that make **AI more accessible and usable for everyone**<br>
 
 </div>
----
+
 
 ## 📫 Let's Connect!
 
