@@ -74,7 +74,7 @@ Currently, I’m developing a **full-stack web & mobile app for Centro Morra**, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jkryson.com-FF8C66?style=for-the-badge)](https://jkryson.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jkryson.com-FF8C66?style=for-the-badge)](https://antoniorinaldidev.com)
 [![Email](https://img.shields.io/badge/Email-a.rinaldi.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.rinaldi.dev@gmail.com)
 
 </div>
